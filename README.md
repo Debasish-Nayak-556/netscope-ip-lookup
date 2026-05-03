@@ -48,7 +48,7 @@ Make sure you have **Node.js** (v14 or higher) installed.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/netscope-ip-lookup.git
+git clone https://github.com/Debasish-Nayak-556/netscope-ip-lookup.git
 
 # 2. Go into the project folder
 cd netscope-ip-lookup
